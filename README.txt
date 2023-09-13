@@ -19,7 +19,7 @@ via the command line. The output is displayed as below:
 For number or word:
 
 Total {data type}: {input size}
-Sorted data: {item 1}, {item 2} ... {item n}
+Sorted data: {item 1} {item 2} ... {item n}
 
 for lines:
 Total lines: {input size}

@@ -45,7 +45,7 @@ Total {data type}: {input size}.
 and so forth, where data types can be numbers, word, or line, input size is the number of inputs 
 supplied by the console or by the input file, item the actual text and number, frequency the number
 of occurances of a specific text or number, and finally percent occurance as the frequency of a 
-particular item compared to the input size.
+particular item relative to input size.
 
 Data types:
 
